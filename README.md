@@ -1,0 +1,2 @@
+# grafikagyakorlatA7TIJX
+Az én elképzelésem egy űrhajós játék lenne amiben aszteroidákat kellene kerülgetni miközben pontokat szerzünk ha felveszünk bizonyos tárgyakat a pályán. Ezen kívül még szeretnék majd még plusz dolgokat hozzáadni mint például egy gyorsítás az űrhajónak amely ki tud fogyni és idő kell neki hogy újratöltődjön valamint ha meg tudom valósaítani ellenfeleket is szeretnék (mint például az aszteroidákon lévő ágyúk amik lőnek így azokat is kerülgetni kell)
